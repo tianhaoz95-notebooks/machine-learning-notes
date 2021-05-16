@@ -1,19 +1,19 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
+  title: 'Machine Learning Notes',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://tianhaoz95-notebooks.github.io/machine-learning-notes',
+  baseUrl: '/machine-learning-notes/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'tianhaoz95-notebooks', // Usually your GitHub org/user name.
+  projectName: 'machine-learning-notes', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Machine Learning Notes',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Machine Learning Notes Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -23,9 +23,9 @@ module.exports = {
           position: 'left',
           label: 'Tutorial',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/tianhaoz95-notebooks/machine-learning-notes',
           label: 'GitHub',
           position: 'right',
         },
