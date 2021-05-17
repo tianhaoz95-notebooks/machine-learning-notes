@@ -1,0 +1,1 @@
+(self.webpackChunkmachine_learning_notes=self.webpackChunkmachine_learning_notes||[]).push([[328],{7185:function(n){"use strict";n.exports=JSON.parse('{"allTagsPath":"/machine-learning-notes/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/machine-learning-notes/blog/tags/hola"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkmachine_learning_notes=self.webpackChunkmachine_learning_notes||[]).push([[720],{5775:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/machine-learning-notes/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/machine-learning-notes/blog/tags/facebook"}')}}]);
